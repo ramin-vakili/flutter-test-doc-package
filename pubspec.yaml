@@ -1,7 +1,6 @@
 name: fluttertestdocpackage
 description: A Flutter test package.
 version: 0.0.1
-author:
 homepage: https://github.com/ramin-vakili/
 
 environment:
