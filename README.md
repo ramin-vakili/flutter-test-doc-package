@@ -10,8 +10,7 @@ A new Flutter package.
 | ------------------ | ------------------ |
 | <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/zoom_scroll.gif" alt="zoom_scroll" width="300" height="400">  | <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/add_remove_dynamically.gif" alt="add_remove" width="300" height="400"> |
 
-![line_chart]()
-<img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/line_chart.png" alt="zoom_scroll" width="300">
+<img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/line_chart.png" alt="zoom_scroll" width="400" alt="line_chart">
 
 ## Getting Started
 
