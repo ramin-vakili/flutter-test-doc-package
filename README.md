@@ -5,11 +5,13 @@ A new Flutter package.
 
 | Live update | Switch, tooltip, cross-hair|
 | ------------------ | ------------------ |
-| <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/live_update.gif" alt="live_update" width="300" height="400">  | <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/tooltip_crosshair.gif" alt="tooltip_crosshair" width="300" height="400"> |
+| <div><img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/live_update.gif" alt="live_update" width="300" height="400"></div>  |  <div><img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/tooltip_crosshair.gif" alt="tooltip_crosshair" width="300" height="400"></div> |
+| | |
 
 | Zoom, scroll| Add/Remove dynamically|
 | ------------------ | ------------------ |
 | <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/zoom_scroll.gif" alt="zoom_scroll" width="300" height="400">  | <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/add_remove_dynamically.gif" alt="add_remove" width="300" height="400"> |
+| | |
 
 ## Getting Started
 
