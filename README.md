@@ -3,26 +3,40 @@
 A new Flutter package.
 
 
+| ![live_update](https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/live_update.gif) | ![tooltip_crosshair](https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/tooltip_crosshair.gif) |
+|---|---|
+| ![zoom_scroll](https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/zoom_scroll.gif) | ![add_remove_dynamically](https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/add_remove_dynamically.gif) |
+|---|---|
+
+
 <br>
 <div style="text-align:center">
-    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/live_update.gif" width="300">
+    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/live_update.gif" width="300">
 </div>
 <br>
 <br>
 <div style="text-align:center">
-    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/tooltip_crosshair.gif" width="300">
+    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/tooltip_crosshair.gif" width="300">
 </div>
 <br>
 <br>
 <div style="text-align:center">
-    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/zoom_scroll.gif" width="300">
+    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/zoom_scroll.gif" width="300">
 </div>
 <br>
 <br>
 <div style="text-align:center">
-    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/blob/master/screen_shots/add_remove_dynamically.gif" width="300">
+    <img src="https://github.com/ramin-vakili/flutter-test-doc-package/raw/master/screen_shots/add_remove_dynamically.gif" width="300">
 </div>
 <br>
+
+| Live update | Switch, tooltip, cross-hair|
+| ------------------ | ------------------ |
+| <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/live_update.gif" alt="live_update">  | <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/tooltip_crosshair.gif" alt="tooltip_crosshair"> |
+
+| Zoom, scroll| Add/Remove dynamically|
+| ------------------ | ------------------ |
+| <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/zoom_scroll.gif" alt="Zoom & Scroll">  | <img src="https://github.com/ramin-vakili/flutter-financial-chart/raw/master/screen_shots/add_remove_dynamically.gif" alt="add_remove"> |
 
 ## Getting Started
 
